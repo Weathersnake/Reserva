@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rex\Downloads\Reserva\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36dba3db4c1488edd0c3db950669fde9a5d44558">
+        <dex dex="C:\Users\Rex\Downloads\Reserva\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c9662f78f1c1b0fbd760a244b7ac4626b4a68d34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rex\Downloads\Reserva\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Rex\Downloads\Reserva\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c35aded0db0db4811683863fcd2b1df1d79b3ee0\classes.dex" />
+    </item>
+
+</items>
